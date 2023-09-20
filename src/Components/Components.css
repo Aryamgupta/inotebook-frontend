@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.loginFormOutlet{
+    margin-top: 150px;
+    display: flex;
+    /* background-color: red; */
+    justify-content: center;
+}
+
+.loginInner{
+    /* /* backgr */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginInner > Form {
+    width: 400px;
+    /* background-color: green; */
+}

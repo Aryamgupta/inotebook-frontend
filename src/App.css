@@ -1,8 +1,7 @@
-*{
-  margin:  0px;
-  padding: 0px;
-}
 
-.i{
-  cursor: pointer;
+.pageNode{
+   font-size: 18px;
+   color: white;
+   font-weight: 400;
+   line-height: 30px;
 }
